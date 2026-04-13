@@ -1,7 +1,7 @@
 # 🎓 Workshop Booking UI/UX Redesign
 
 ## 👨‍💻 Author
-**Priyanjal Yadav**  
+**Mahek Mishra**  
 B.Tech CSE (Data Science)  
 Shri Shankaracharya Technical Campus, Bhilai  
 
